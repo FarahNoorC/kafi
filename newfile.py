@@ -1,1 +1,2 @@
-print1("ff")
+print("ff")
+print("this is master file")
